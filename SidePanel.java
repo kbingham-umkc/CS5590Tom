@@ -21,6 +21,7 @@ public class SidePanel extends JPanel {
 	private static final long serialVersionUID = 2181495598854992747L;
 
 	// I've got a little story 
+	// I'd like to tell
 
 	/**
 	 * The dimensions of each tile on the next piece preview.
