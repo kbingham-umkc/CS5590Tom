@@ -20,6 +20,8 @@ public class BoardPanel extends JPanel {
 	 */
 	private static final long serialVersionUID = 5055679736784226108L;
 
+	// Add Music
+
 	/**
 	 * Minimum color component values for tiles. This is required if we
 	 * want to show both light and dark shading on our tiles.
