@@ -15,6 +15,8 @@ import javax.swing.JPanel;
  */
 public class BoardPanel extends JPanel {
 
+	// One
+
 	/**
 	 * Serial Version UID.
 	 */
