@@ -24,7 +24,7 @@ public class BoardPanel extends JPanel {
 	 * Minimum color component values for tiles. This is required if we
 	 * want to show both light and dark shading on our tiles.
 	 */
-	public static final int COLOR_MIN = 35;
+	public static final int COLOR_MIN = 20;
 	
 	/**
 	 * Maximum color component values for tiles. This is required if we
