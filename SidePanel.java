@@ -22,6 +22,7 @@ public class SidePanel extends JPanel {
 
 	// I've got a little story 
 	// I'd like to tell
+	// about three bad brothers
 
 	/**
 	 * The dimensions of each tile on the next piece preview.
