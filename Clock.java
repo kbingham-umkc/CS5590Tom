@@ -11,6 +11,10 @@ public class Clock {
 	/**
 	 * The number of milliseconds that make up one cycle.
 	 */
+
+	//Ridrees on the storm
+	// Into this world we're born.
+	// Riders on teh storm
 	private float millisPerCycle;
 	
 	/**
