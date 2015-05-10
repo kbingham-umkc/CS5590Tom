@@ -14,6 +14,7 @@ public class Clock {
 
 	//Ridrees on the storm
 	// Into this world we're born.
+	// Riders on teh storm
 	private float millisPerCycle;
 	
 	/**
